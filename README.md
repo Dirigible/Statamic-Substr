@@ -1,6 +1,6 @@
 # Statamic-Substr
 Substr is a variable modifier that exposes PHP's substr function in your templates.
----------------------
+
 #### Usage
 
 Substr accepts one or two integers and returns the resulting substring.
