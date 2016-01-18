@@ -1,5 +1,5 @@
 # Substr
-Substr is a Statamic variable modifier that exposes PHP's substr function in your templates.
+Substr is a Statamic (v1) variable modifier that exposes PHP's substr function in your templates.
 
 ---------------------
 
